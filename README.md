@@ -1,4 +1,4 @@
 # Casos De Uso
 
 
-![Caso de uso](/images/caso1.png)
+![Caso de uso](images/Caso1.png)
