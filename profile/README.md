@@ -7,6 +7,9 @@
  [Elpis-Backend](https://backend-gh0t.onrender.com/) 
  
 
+## Convenciones 
+
+ [Convenciona-commit](https://www.conventionalcommits.org/en/v1.0.0/) 
 
 <!--
 
