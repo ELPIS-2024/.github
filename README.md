@@ -17,3 +17,8 @@
 
 ## Reporte y analiticas
 ![Caso de uso](images/Caso4.png)
+
+
+# Entidad relacion
+
+![Caso de uso](images/EntidadRelacion.png)
