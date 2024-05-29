@@ -12,9 +12,6 @@
 ## Orden de servicio
 ![Caso de uso](images/Caso3.png)
 
-## Tarea
-![Caso de uso](images/Caso6.png)
-
 ## Inventario
 ![Caso de uso](images/Caso2.png)
 
