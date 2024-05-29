@@ -10,7 +10,7 @@
 ![Caso de uso](images/Caso5.png)
 
 ## Orden de servicio
-![Caso de uso](images/Caso3.png)
+![Caso de uso](images/CasoO.png)
 
 ## Inventario
 ![Caso de uso](images/Caso2.png)
