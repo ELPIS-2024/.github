@@ -36,7 +36,7 @@ GitHub Flow es un flujo de trabajo simple y eficiente diseñado para facilitar e
 7. **Eliminar la rama**: Una vez fusionado el Pull Request, se elimina la rama para mantener el repositorio limpio y organizado.
 
 A continuación se muestra una gráfica de GitHub Flow para tener una representación visual de lo anteriormente explicado.
- (img temporal)
+
 ![GitHub Flow](../images/github-flow.png)
 
 <!--
