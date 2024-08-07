@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 ## Frontend
+
+Link al frontend de prueba
  [Elpis-Frontend](https://frontend-213f.onrender.com/) 
 
 ## Backend
+
+Link al backend de prueba
  [Elpis-Backend](https://backend-gh0t.onrender.com/) 
  
 
@@ -11,7 +15,37 @@
 
 ### Commits
 
- [Convencional-commit](https://www.conventionalcommits.org/en/v1.0.0/) 
+En el desarrollo del proyecto se utilizará [Convencional-Commits](https://www.conventionalcommits.org/en/v1.0.0/) para realizar los commits con nombres y descripciones sencillas de leer. Además para indicar el tipo vamos a utilizar [Gitmojis](https://gitmoji.dev/) para que sean más identificables a simple vista. **Todo** commit estará compuesto de un título, en inglés; y un cuerpo escrito en español, el cual es opcional, sólo por si see deben añadir más detalles al respecto del commit. 
+
+En la siguiente sección daremos una guía rápida para la forma en que se utilizarán los conventional commits.
+
+**Guía Rápida de Conventional Commits**
+
+Un mensaje de commit sigue la siguiente forma:
+
+`<tipo>` `<descripción>`
+
+1. **Formato del Mensaje de Commit**:
+   - **Tipo**: Define el tipo de cambio (e.g., `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`) utilizando un [Gitmoji](https://gitmoji.dev/).
+   - **Descripción**: Proporciona una breve descripción del cambio.
+   - **Cuerpo** (opcional): Ofrece detalles adicionales sobre el cambio, si es necesario.
+
+2. **Ejemplos de Mensajes de Commit**:
+   - `:memo: update README.md`
+   - `:bug: fixed error in the start button`
+
+3. **Tipos Comunes**:
+   - `feat`: Añade una nueva característica.
+   - `fix`: Corrige un error.
+   - `docs`: Cambios en la documentación.
+   - `style`: Cambios en el formato sin afectar el código (e.g., espacios, formato).
+   - `refactor`: Cambios en el código que no añaden funcionalidades ni corrigen errores.
+   - `test`: Añade o modifica pruebas.
+
+**Beneficios de conventional commits**:
+   - **Claridad**: Mejora la legibilidad y comprensión del historial de commits.
+   - **Automatización**: Facilita la generación automática de versiones y changelogs.
+   - **Consistencia**: Establece un estándar común para el equipo.
 
 ### Flujo de trabajo
 
