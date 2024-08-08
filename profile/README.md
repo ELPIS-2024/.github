@@ -2,12 +2,12 @@
 
 ## Frontend
 
-Link al frontend de prueba
+A continuación se encuentra el link que redirecciona al Frontend de prueba
  [Elpis-Frontend](https://frontend-213f.onrender.com/) 
 
 ## Backend
 
-Link al backend de prueba
+En el siguiente link dirige al Backend de prueba:
  [Elpis-Backend](https://backend-gh0t.onrender.com/) 
  
 
