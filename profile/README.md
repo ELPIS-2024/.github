@@ -2,7 +2,7 @@
 
 ## Frontend
 
-A continuación se encuentra el link que redirecciona al Frontend de prueba
+A continuación se encuentra el link que redirecciona al Frontend de prueba:
  [Elpis-Frontend](https://frontend-213f.onrender.com/) 
 
 ## Backend
@@ -15,7 +15,7 @@ En el siguiente link dirige al Backend de prueba:
 
 ### Commits
 
-En el desarrollo del proyecto se utilizará [Convencional-Commits](https://www.conventionalcommits.org/en/v1.0.0/) para realizar los commits con nombres y descripciones sencillas de leer. Además para indicar el tipo vamos a utilizar [Gitmojis](https://gitmoji.dev/) para que sean más identificables a simple vista. **Todo** commit estará compuesto de un título, en inglés; y un cuerpo escrito en español, el cual es opcional, sólo por si see deben añadir más detalles al respecto del commit. 
+En el desarrollo del proyecto se utilizará [Convencional-Commits](https://www.conventionalcommits.org/en/v1.0.0/) para realizar los commits con nombres y descripciones sencillas de leer. Además para indicar el tipo vamos a utilizar [Gitmojis](https://gitmoji.dev/) para que sean más identificables a simple vista. **Todo** commit estará compuesto de un título, en inglés; y un cuerpo escrito en español, el cual es opcional, sólo por si se deben añadir más detalles al respecto del commit. 
 
 En la siguiente sección daremos una guía rápida para la forma en que se utilizarán los conventional commits.
 
