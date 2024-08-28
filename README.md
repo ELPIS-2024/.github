@@ -18,4 +18,4 @@
 
 # Entidad relacion
 
-![Caso de uso](images/EntidadRelacion.png)
+![Caso de uso](images/DiagramaEntidadRelacion.png)
