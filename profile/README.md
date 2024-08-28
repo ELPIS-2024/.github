@@ -71,7 +71,7 @@ GitHub Flow es un flujo de trabajo simple y eficiente diseñado para facilitar e
 
 A continuación se muestra una gráfica de GitHub Flow para tener una representación visual de lo anteriormente explicado.
 
-![GitHub Flow](../images/github-flow.png)
+![GitHub Flow](../images/githubFlow.png)
 
 <!--
 
