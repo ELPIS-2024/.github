@@ -1,22 +1,19 @@
 # Casos De Uso
 
-## General 
-![Caso de uso](images/Caso1.png)
+## Diagrama de paquetes
+![Caso de uso](images/DiagramaDePaquetes.png)
 
 ## Usuario
-![Caso de uso](images/Caso7.png)
-
-## Rol y Auth
-![Caso de uso](images/Caso5.png)
+![Caso de uso](images/Caso_de_uso-Usuarios.png)
 
 ## Orden de servicio
-![Caso de uso](images/CasoO.png)
+![Caso de uso](images/Caso_de_uso-Orden_de_servicio.png)
 
 ## Inventario
-![Caso de uso](images/Caso2.png)
+![Caso de uso](images/Caso_de_uso-Inventario.png)
 
 ## Reporte y analiticas
-![Caso de uso](images/Caso4.png)
+![Caso de uso](images/Caso_de_uso-Reporte_y_analiticas.png)
 
 
 # Entidad relacion
